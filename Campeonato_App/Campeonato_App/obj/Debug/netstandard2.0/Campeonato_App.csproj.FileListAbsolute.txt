@@ -1,0 +1,16 @@
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\Cadastro.xaml.g.cs
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\Jogo.xaml.g.cs
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfo.cs
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.deps.json
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Users\marcos\Desktop\WSTowers\Campeonato_App\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\XamlC.stamp
