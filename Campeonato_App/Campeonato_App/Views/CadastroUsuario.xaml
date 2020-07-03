@@ -98,7 +98,7 @@
                 
                 <Button 
                     Text="Cadastre-se"
-                    BackgroundColor="MediumSeaGreen"
+                    BackgroundColor="#2ECC71"
                     FontSize="Large"
                     VerticalOptions="CenterAndExpand"
                     HorizontalOptions="CenterAndExpand"
@@ -115,7 +115,7 @@
                     <Label.FormattedText>
                         <FormattedString>
                             <Span Text="Login" 
-                                  TextColor="Blue" 
+                                  TextColor="#2980B9" 
                                   TextDecorations="Underline">
                                 <Span.GestureRecognizers>
                                     <TapGestureRecognizer 
