@@ -1,4 +1,5 @@
-﻿using Campeonato_App.Views;
+﻿using Campeonato_App.View;
+
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,7 +12,8 @@ namespace Campeonato_App
         {
             InitializeComponent();
 
-            MainPage = new Cadastro();
+            //MainPage = new Cadastro();
+            
         }
 
         protected override void OnStart()

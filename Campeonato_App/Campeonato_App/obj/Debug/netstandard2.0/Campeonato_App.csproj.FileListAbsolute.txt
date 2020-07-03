@@ -23,3 +23,13 @@ C:\Users\senai\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\net
 C:\Users\senai\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.dll
 C:\Users\senai\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\ref\Campeonato_App.dll
 C:\Users\senai\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csprojAssemblyReference.cache
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\View\LoginView.xaml.g.cs
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfoInputs.cache
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfo.cs
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\thi_s\Desktop\CampeonatoApp\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.pdb

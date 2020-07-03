@@ -3,6 +3,8 @@
   <PropertyGroup>
     <SelectedDevice>Samsung SM-J105B</SelectedDevice>
     <DefaultDevice>Android_Accelerated_x86_Oreo</DefaultDevice>
+    <SelectedDevice>Motorola one</SelectedDevice>
+    <DefaultDevice>Pixel_3a_API_28</DefaultDevice>
     <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

@@ -605,23 +605,27 @@
   },
   "packageFolders": {
     "C:\\Users\\senai\\.nuget\\packages\\": {},
+    "C:\\Users\\thi_s\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senai\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+      "projectUniqueName": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
       "projectName": "Campeonato_App",
-      "projectPath": "C:\\Users\\senai\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
-      "packagesPath": "C:\\Users\\senai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senai\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\obj\\",
+      "projectPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+      "packagesPath": "C:\\Users\\thi_s\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\senai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\thi_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
