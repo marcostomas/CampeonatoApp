@@ -1969,6 +1969,7 @@
     ]
   },
   "packageFolders": {
+    "C:\\Users\\senai\\.nuget\\packages\\": {},
     "C:\\Users\\thi_s\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
@@ -1982,10 +1983,9 @@
       "outputPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
+        "C:\\Users\\senai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Users\\thi_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
