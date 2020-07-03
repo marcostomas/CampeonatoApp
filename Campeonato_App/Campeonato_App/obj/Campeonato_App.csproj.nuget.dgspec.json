@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj": {}
+    "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj": {
+    "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+        "projectUniqueName": "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
         "projectName": "Campeonato_App",
-        "projectPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
-        "packagesPath": "C:\\Users\\thi_s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\obj\\",
+        "projectPath": "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+        "packagesPath": "C:\\Users\\marcos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\thi_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

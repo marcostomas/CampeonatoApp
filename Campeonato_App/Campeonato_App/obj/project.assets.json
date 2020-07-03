@@ -604,26 +604,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\senai\\.nuget\\packages\\": {},
-    "C:\\Users\\thi_s\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\marcos\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+      "projectUniqueName": "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
       "projectName": "Campeonato_App",
-      "projectPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
-      "packagesPath": "C:\\Users\\thi_s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thi_s\\Desktop\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\obj\\",
+      "projectPath": "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\Campeonato_App.csproj",
+      "packagesPath": "C:\\Users\\marcos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcos\\Documents\\CampeonatoApp\\Campeonato_App\\Campeonato_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\thi_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -664,10 +661,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
