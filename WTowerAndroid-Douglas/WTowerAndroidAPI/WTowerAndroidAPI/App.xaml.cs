@@ -12,7 +12,7 @@ namespace WTowerAndroidAPI
         {
             InitializeComponent();
 
-            MainPage = new PrincipalPage();
+            MainPage = new SplashPage();
         }
 
         protected override void OnStart()

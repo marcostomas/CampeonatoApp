@@ -7,8 +7,6 @@ namespace WTowerAndroidAPI.ViewModel
 {
     class PrincipalViewModel
     {
-        Jogo jogo = new Jogo();
-
         public List<Jogo> jogos { get; set; }
 
         public PrincipalViewModel()
