@@ -102,7 +102,7 @@
                     FontSize="Large"
                     VerticalOptions="CenterAndExpand"
                     HorizontalOptions="CenterAndExpand"
-                    WidthRequest="200"
+                    WidthRequest="250"
                     CornerRadius="10"
                 />
             </StackLayout>
