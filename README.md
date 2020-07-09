@@ -2,7 +2,7 @@
 
 **Aplicativo desenvolvido com Xamarin**
 
-Para facilitar, as imagens das telas prontas estão neste README.
+Para facilitar, as imagens das telas prontas estão neste README. O projeto todo está na branch ***master***
 
 ### Branches
 
